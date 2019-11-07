@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>X</title>
+    <desc>Created with Sketch.</desc>
+    <g id="X" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(-4.000000, -4.000000)">
+            <circle id="Oval" fill="#FFFFFF" transform="translate(13.000000, 13.000000) rotate(45.000000) translate(-13.000000, -13.000000) " cx="13" cy="13" r="9"></circle>
+            <path d="M9.81801948,9.81801948 L16.1819805,16.1819805" id="Line-12" stroke="#484848" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M9.81801948,16.1819805 L16.1819805,9.81801948" id="Line-14" stroke="#484848" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

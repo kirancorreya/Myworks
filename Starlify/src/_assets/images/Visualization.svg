@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1107px" height="1080px" viewBox="0 0 1107 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>Visualization Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="49.2223331%" fx="50%" fy="49.2223331%" r="44.612698%" gradientTransform="translate(0.500000,0.492223),scale(0.975610,1.000000),rotate(88.923066),translate(-0.500000,-0.492223)" id="radialGradient-1">
+            <stop stop-color="#B7B4B4" stop-opacity="0.314548733" offset="0%"></stop>
+            <stop stop-color="#222222" stop-opacity="0.127840909" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-17">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-18">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-19">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-20">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-21">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-22">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-23">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-24">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-25">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-26">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-27">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-28">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-29">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-30">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-31">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-32">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-33">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-34">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-35">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-36">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-37">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-38">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-39">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-40">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-41">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-42">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-43">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-44">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-45">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-46">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-83.3%" width="266.7%" height="266.7%" filterUnits="objectBoundingBox" id="filter-47">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Alternative-2-w:1920" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage" transform="translate(-733.000000, 0.000000)">
+            <g id="Distributed" transform="translate(732.000000, 0.000000)">
+                <rect id="Rectangle" fill="url(#radialGradient-1)" fill-rule="evenodd" x="1" y="0" width="1107" height="1080"></rect>
+                <circle id="Oval-Copy-16" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-2)" cx="596" cy="223" r="18"></circle>
+                <circle id="Oval-Copy-18" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-3)" cx="703" cy="194" r="18"></circle>
+                <circle id="Oval-Copy-47" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-4)" cx="454" cy="350" r="18"></circle>
+                <circle id="Oval-Copy-48" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-5)" cx="526" cy="552" r="18"></circle>
+                <circle id="Oval-Copy-59" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-6)" cx="310" cy="579" r="18"></circle>
+                <circle id="Oval-Copy-49" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-7)" cx="349" cy="194" r="18"></circle>
+                <circle id="Oval-Copy-50" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-8)" cx="200" cy="420" r="18"></circle>
+                <circle id="Oval-Copy-51" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-9)" cx="573" cy="705" r="18"></circle>
+                <circle id="Oval-Copy-52" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-10)" cx="422" cy="789" r="18"></circle>
+                <circle id="Oval-Copy-53" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-11)" cx="264" cy="771" r="18"></circle>
+                <circle id="Oval-Copy-54" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-12)" cx="651" cy="903" r="18"></circle>
+                <circle id="Oval-Copy-55" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-13)" cx="840" cy="753" r="18"></circle>
+                <circle id="Oval-Copy-56" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-14)" cx="888" cy="360" r="18"></circle>
+                <circle id="Oval-Copy-57" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-15)" cx="943" cy="486" r="18"></circle>
+                <circle id="Oval-Copy-58" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-16)" cx="718" cy="582" r="18"></circle>
+                <circle id="Oval-Copy-17" fill="#BBE790" fill-rule="evenodd" filter="url(#filter-17)" cx="727" cy="318" r="18"></circle>
+                <path d="M334.5,210.5 L316.5,236.5" id="Line-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M201.5,396.5 L205.5,366.5" id="Line-2-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M221.5,427.5 L252.5,434.5" id="Line-3-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M190.5,441.5 L176.5,486.5" id="Line-4-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M432.5,359.5 L389.5,370.5" id="Line-5-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M470.5,368.5 L515.5,417.5" id="Line-6-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M590.5,244.5 L580.5,281.5" id="Line-7-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M710.5,334.5 L685.5,360.5" id="Line-8-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M747.5,310.5 L767.5,305.5" id="Line-9-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M677.5,198.5 L617.5,216.5" id="Line-10-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M707.5,225.5 L720.5,296.5" id="Line-11-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M730.5,195.5 L760.5,195.5" id="Line-12-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M590.5,199.5 L586.5,177.5" id="Line-13-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M367.5,179.5 L426.5,153.5" id="Line-14-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M874.5,378.5 L859.5,402.5" id="Line-15-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M932.5,463.5 L898.5,378.5" id="Line-16-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M928.5,508.5 L893.5,543.5" id="Line-17-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M728.5,552.5 L739.5,522.5" id="Line-18-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M745.5,593.5 L790.5,612.5" id="Line-19-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M700.5,607.5 L674.5,632.5" id="Line-20-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M523.5,575.5 L521.5,594.5" id="Line-21-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M333.5,554.5 L367.5,520.5" id="Line-22-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M333.5,597.5 L367.5,626.5" id="Line-23-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M282.5,589.5 L249.5,604.5" id="Line-24-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M690.5,578.5 L550.5,558.5" id="Line-25-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M246.5,753.5 L227.5,732.5" id="Line-26-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M280.5,788.5 L305.5,817.5" id="Line-27-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M422.5,769.5 L424.5,754.5" id="Line-28-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M421.5,808.5 L421.5,838.5" id="Line-29-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M563.5,725.5 L549.5,753.5" id="Line-30-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M660.5,881.5 L674.5,852.5" id="Line-31-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M626.5,903.5 L585.5,904.5" id="Line-32-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M854.5,735.5 L868.5,720.5" id="Line-33-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M824.5,769.5 L803.5,790.5" id="Line-34-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M596.5,710.5 L816.5,750.5" id="Line-35-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M734.5,607.5 L820.5,736.5" id="Line-36-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M302.5,609.5 L272.5,746.5" id="Line-37-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M320.5,606.5 L407.5,774.5" id="Line-38-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M289.5,554.5 L210.5,439.5" id="Line-39-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M371.5,201.5 L571.5,221.5" id="Line-40-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M360.5,214.5 L437.5,330.5" id="Line-41-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M472.5,334.5 L578.5,237.5" id="Line-42-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M748.5,327.5 L865.5,355.5" id="Line-43-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M641.5,881.5 L583.5,725.5" id="Line-44-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M747.5,568.5 L920.5,495.5" id="Line-45-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M438.5,799.5 L628.5,891.5" id="Line-46-Copy-2" stroke-opacity="0.603720498" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square"></path>
+                <circle id="Oval" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-18)" cx="308" cy="248" r="9"></circle>
+                <circle id="Oval-Copy" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-19)" cx="438" cy="148" r="9"></circle>
+                <circle id="Oval-Copy-2" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-20)" cx="584" cy="166" r="9"></circle>
+                <circle id="Oval-Copy-3" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-21)" cx="578" cy="291" r="9"></circle>
+                <circle id="Oval-Copy-4" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-22)" cx="378" cy="374" r="9"></circle>
+                <circle id="Oval-Copy-5" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-23)" cx="523" cy="425" r="9"></circle>
+                <circle id="Oval-Copy-6" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-24)" cx="677" cy="369" r="9"></circle>
+                <circle id="Oval-Copy-7" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-25)" cx="772" cy="196" r="9"></circle>
+                <circle id="Oval-Copy-8" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-26)" cx="778" cy="302" r="9"></circle>
+                <circle id="Oval-Copy-9" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-27)" cx="852" cy="412" r="9"></circle>
+                <circle id="Oval-Copy-10" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-28)" cx="885" cy="552" r="9"></circle>
+                <circle id="Oval-Copy-11" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-29)" cx="800" cy="617" r="9"></circle>
+                <circle id="Oval-Copy-12" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-30)" cx="743" cy="513" r="9"></circle>
+                <circle id="Oval-Copy-13" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-31)" cx="664" cy="639" r="9"></circle>
+                <circle id="Oval-Copy-14" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-32)" cx="878" cy="714" r="9"></circle>
+                <circle id="Oval-Copy-15" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-33)" cx="793" cy="799" r="9"></circle>
+                <circle id="Oval-Copy-19" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-34)" cx="546" cy="761" r="9"></circle>
+                <circle id="Oval-Copy-20" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-35)" cx="679" cy="844" r="9"></circle>
+                <circle id="Oval-Copy-21" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-36)" cx="577" cy="905" r="9"></circle>
+                <circle id="Oval-Copy-22" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-37)" cx="422" cy="848" r="9"></circle>
+                <circle id="Oval-Copy-23" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-38)" cx="430" cy="744" r="9"></circle>
+                <circle id="Oval-Copy-24" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-39)" cx="315" cy="824" r="9"></circle>
+                <circle id="Oval-Copy-25" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-40)" cx="219" cy="724" r="9"></circle>
+                <circle id="Oval-Copy-26" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-41)" cx="377" cy="635" r="9"></circle>
+                <circle id="Oval-Copy-27" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-42)" cx="522" cy="606" r="9"></circle>
+                <circle id="Oval-Copy-28" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-43)" cx="377" cy="512" r="9"></circle>
+                <circle id="Oval-Copy-29" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-44)" cx="240" cy="608" r="9"></circle>
+                <circle id="Oval-Copy-30" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-45)" cx="173" cy="496" r="9"></circle>
+                <circle id="Oval-Copy-31" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-46)" cx="264" cy="440" r="9"></circle>
+                <circle id="Oval-Copy-32" fill="#A1DFDC" fill-rule="evenodd" filter="url(#filter-47)" cx="206" cy="356" r="9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

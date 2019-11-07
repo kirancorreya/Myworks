@@ -1,0 +1,128 @@
+.btn {
+  height: 57px;
+  width: 271px;
+  font-weight: 500;
+  padding: 15px !important;
+  &.grey-btn {
+    background-color: #484848;
+    color: #fff;
+    font-size: 18px;
+    padding: 0 !important;
+    border-radius: 0;
+    padding: 10px !important;
+    width: auto;
+    height: auto;
+    line-height: 15px;
+    &:hover {
+      background: transparent;
+      color: #fff !important;
+      border: 1px solid #fff;
+      border-radius: 0;
+    }
+  }
+  &.green-btn {
+    background: $green-btn-color;
+    color: $white !important;
+    border: 1px solid $green-btn-color;
+    border-radius: 5px;
+    &:hover {
+      background: transparent;
+      color: $green-btn-color !important;
+      border: 1px solid $green-btn-color;
+      border-radius: 5px;
+    }
+  }
+  &.black-btn {
+    background: #2b2b2b;
+    color: $white !important;
+    border: 1px solid #2b2b2b;
+    max-width: 130px;
+    border-radius: 0;
+    margin-right: 10px;
+    text-transform: capitalize;
+    font-size: 20px;
+    height: 40px;
+    line-height: 1px;
+    &:hover {
+      background: transparent;
+      border: 1px solid $white;
+      color: $white !important;
+    }
+  }
+  &.transparent-btn {
+    background: transparent;
+    color: $white !important;
+    border: 1px solid $white;
+    border-radius: 5px;
+    &:hover {
+      background: $white;
+      color: $grey !important;
+      border: 1px solid $white;
+      border-radius: 5px;
+    }
+  }
+  &.transparent-black-btn {
+    background: transparent;
+    color: $white !important;
+    max-width: 130px;
+    border-radius: 0;
+    text-transform: capitalize;
+    font-size: 20px;
+    height: 40px;
+    line-height: 1px;
+    &:hover {
+      border: 1px solid $white;
+      color: $white !important;
+    }
+  }
+  &.red-btn {
+    background: $red;
+    color: $white;
+    border: 1px solid $red;
+    border-radius: 5px;
+  }
+}
+.link-btn {
+  border: 0;
+  padding: 0;
+  color: #fff;
+  text-decoration: underline;
+  background: transparent;
+  font-size: 16px;
+}
+.greenGradiant-btn{
+  width: 200px;
+  height: 55px;
+  color: #000;
+  background: linear-gradient(to bottom, #bbe790, #a1dfdc);
+  font-family: $roboto;
+  font-size: 16px;
+  padding: 18px 35px;
+  line-height: 20px;
+  &:hover {
+    text-decoration: unset;
+    color: $white;
+  }
+
+}
+.bordergreenGradiant-btn-wrapper {
+  max-width: 200px;
+  height: 55px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to bottom, #e6d790, #e79290);
+  padding: 2px;
+}
+
+.bordergreenGradiant-btn {
+  background: #141b23;
+  color: #fff;
+  padding: 16px 58px;
+  line-height: 50px;
+  font-size: 16px;
+  font-family: $roboto;
+  &:hover {
+    text-decoration: unset;
+    color: $white;
+  }
+}

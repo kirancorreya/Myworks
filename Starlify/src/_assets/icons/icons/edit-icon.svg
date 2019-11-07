@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-button" transform="translate(-48.000000, -11.000000)">
+            <g id="edit" transform="translate(48.000000, 11.000000)">
+                <circle id="Oval" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+                <g id="pen-solid" stroke-width="1" transform="translate(4.000000, 3.000000)" fill="#484848">
+                    <path d="M6.24643752,2.00307494 L8.99679544,4.75354987 L3.02450987,10.7260895 L0.572347299,10.9967971 C0.244074615,11.0331063 -0.0332814287,10.7555236 0.00324105578,10.427237 L0.276085499,7.97325128 L6.24643752,2.00307494 Z M10.6978839,1.59357602 L9.40649178,0.302128993 C9.00367026,-0.100709664 8.35034746,-0.100709664 7.94752594,0.302128993 L6.73261624,1.51709039 L9.48297416,4.26756532 L10.6978839,3.05260393 C11.1007054,2.64955042 11.1007054,1.99641468 10.6978839,1.59357602 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

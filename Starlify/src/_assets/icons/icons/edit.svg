@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+        <path d="M10.2464375,5.00307494 L12.9967954,7.75354987 L7.02450987,13.7260895 L4.5723473,13.9967971 C4.24407462,14.0331063 3.96671857,13.7555236 4.00324106,13.427237 L4.2760855,10.9732513 L10.2464375,5.00307494 Z M14.6978839,4.59357602 L13.4064918,3.30212899 C13.0036703,2.89929034 12.3503475,2.89929034 11.9475259,3.30212899 L10.7326162,4.51709039 L13.4829742,7.26756532 L14.6978839,6.05260393 C15.1007054,5.64955042 15.1007054,4.99641468 14.6978839,4.59357602 Z" id="Shape" fill="#616264" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,184 @@
+//Google fonts
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+
+//Font Variables
+$montserrat: "Montserrat", sans-serif;
+$raleway: "Raleway", sans-serif;
+$roboto: "Roboto", sans-serif;
+
+.montserrat {
+  font-family: $montserrat;
+}
+.raleway {
+  font-family: $raleway;
+}
+.roboto {
+  &.robotoLight {
+    font-weight: 300;
+  }
+  font-family: $roboto;
+}
+
+// Button Color
+$hover-grey: #313131;
+$green-btn-color: #4adea0;
+$white: #ffffff;
+$grey: #2b2b2b;
+$grey-bg: #222222;
+$grey-header: #2b2b2b;
+$text-grey: #939393;
+$red: #ff5c5c;
+$errorMsg: #a81e1e;
+$w-100: 100%;
+$w-75: 75%;
+$w-50: 50%;
+$w-25: 25%;
+
+// Mixins
+
+@mixin optional-at-root($sel) {
+  @at-root #{if(not &, $sel, selector-append(&, $sel))} {
+    @content;
+  }
+}
+
+@mixin placeholder {
+  @include optional-at-root("::-webkit-input-placeholder") {
+    @content;
+  }
+
+  @include optional-at-root(":-moz-placeholder") {
+    @content;
+  }
+
+  @include optional-at-root("::-moz-placeholder") {
+    @content;
+  }
+
+  @include optional-at-root(":-ms-input-placeholder") {
+    @content;
+  }
+}
+
+//Easy use class
+
+.w-100 {
+  width: $w-100;
+}
+.w-100px {
+  width: 100px;
+}
+
+.w-75 {
+  width: $w-75;
+}
+.w-50 {
+  width: $w-50;
+}
+.w-25 {
+  width: $w-25;
+}
+.m-b-50px {
+  margin-bottom: 50px;
+}
+.text-white {
+  color: $white;
+}
+.text-grey {
+  color: $text-grey;
+}
+.m-r-15 {
+  margin-right: 15px;
+}
+.m-r-30 {
+  margin-right: 30px;
+}
+.m-l-15 {
+  margin-left: 15px;
+}
+.m-t-15 {
+  margin-top: 15px;
+}
+.m-t-5 {
+  margin-top: 5px;
+}
+.m-b-0 {
+  margin-bottom: 0;
+}
+.m-b-5 {
+  margin-bottom: 5px;
+}
+.m-b-20 {
+  margin-bottom: 20px;
+}
+.m-b-30 {
+  margin-bottom: 30px;
+}
+.m-t-10 {
+  margin-top: 10px !important;
+}
+.m-t-40 {
+  margin-top: 40px !important;
+}
+.m-t-35 {
+  margin-top: 35px !important;
+}
+.m-t-45 {
+  margin-top: 45px !important;
+}
+.m-t-50 {
+  margin-top: 50px !important;
+}
+.m-t-65 {
+  margin-top: 65px !important;
+}
+.m-t-85 {
+  margin-top: 85px !important;
+}
+.m-t-95 {
+  margin-top: 95px !important;
+}
+.m-t-130 {
+  margin-top: 130px !important;
+}
+.f-right {
+  float: right;
+}
+.text-small {
+  font-size: 12px;
+}
+.text-size-16 {
+  font-size: 16px;
+}
+.text-size-18 {
+  font-size: 18px;
+}
+.p-l-0 {
+  padding-left: 0 !important;
+}
+.word-wrap {
+  word-wrap: break-word;
+}
+// Click
+
+.click {
+  cursor: pointer;
+  &.active {
+    color: $white;
+  }
+}
+
+.text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+ul {
+  padding: 0;
+
+  li {
+    list-style: none;
+  }
+}

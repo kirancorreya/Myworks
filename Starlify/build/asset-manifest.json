@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df8ea411.chunk.css",
+    "main.js": "/static/js/main.8da75729.chunk.js",
+    "main.js.map": "/static/js/main.8da75729.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.0624914a.chunk.css": "/static/css/2.0624914a.chunk.css",
+    "static/js/2.eb29ba41.chunk.js": "/static/js/2.eb29ba41.chunk.js",
+    "static/js/2.eb29ba41.chunk.js.map": "/static/js/2.eb29ba41.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd33d5ef717c75e63e768c6a3fd9ca83.js": "/precache-manifest.cd33d5ef717c75e63e768c6a3fd9ca83.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.df8ea411.chunk.css.map": "/static/css/main.df8ea411.chunk.css.map",
+    "static/media/icons.css": "/static/media/Stroke-Gap-Icons.db3aeb6f.eot",
+    "static/media/desktop-bottom.png": "/static/media/desktop-bottom.5e0963a9.png",
+    "static/media/desktop-top.png": "/static/media/desktop-top.68a787c0.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ef3df984.eot",
+    "static/media/main.scss": "/static/media/homeBG-plan.d8387d4d.jpg"
+  }
+}

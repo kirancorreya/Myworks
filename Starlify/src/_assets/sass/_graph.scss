@@ -1,0 +1,52 @@
+.forcegraph {
+  display: block;
+  background: #222222;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  .link {
+    stroke: #fff;
+    stroke-opacity: 0.5;
+    stroke-width: 0.5px;
+  }
+  .node {
+    circle {
+      fill: #fff;
+      &.system {
+        fill: #28a745;
+        &:hover {
+          fill: #e8455c;
+          cursor: pointer;
+        }
+      }
+      &.subsystem {
+        fill: #28a745;
+        &:hover {
+          fill: #e8455c;
+          cursor: pointer;
+        }
+      }
+      &.service {
+        fill: #77d3ff;
+      }
+    }
+    text {
+      font: 10px sans-serif;
+      fill: #fff;
+      &.service {
+        display: none;
+      }
+    }
+  }
+  .cell {
+    fill: none;
+    pointer-events: all;
+  }
+  .apiline {
+    stroke: #fff;
+    stroke-opacity: 0.5;
+    stroke-width: 1px;
+  }
+}
